@@ -4,7 +4,7 @@
 | --- | --- |
 | **Candidate** | `Ryan Jay Reyes` |
 | **Project** | Ajaia Docs |
-| **Live Application** | `[DEPLOYED_VERCEL_URL_HERE]` |
+| **Live Application** | `https://ajaia-docs-theta-nine.vercel.app/login` |
 | **GitHub Repository** | `https://github.com/rrwebsolution/ajaia-docs.git` |
 | **Google Drive Folder** | `https://drive.google.com/drive/folders/1MuDFzbnUNHpnjfDInAT15mZrpkv_imOi?usp=sharing` |
 | **Walkthrough Video** | see [`walkthrough-url.txt`](walkthrough-url.txt) |
